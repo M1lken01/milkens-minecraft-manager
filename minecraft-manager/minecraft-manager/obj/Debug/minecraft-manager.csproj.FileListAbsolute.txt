@@ -1,0 +1,11 @@
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\bin\Debug\minecraft-manager.exe.config
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\bin\Debug\minecraft-manager.exe
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\bin\Debug\minecraft-manager.pdb
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft-manager.csproj.AssemblyReference.cache
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft-manager.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft_manager.Main.resources
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft_manager.Properties.Resources.resources
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft-manager.csproj.GenerateResource.cache
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft-manager.csproj.CoreCompileInputs.cache
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft-manager.exe
+E:\Desktop\Documents\000Managed000\Documents\Online School\mminecraft\milkens-minecraft-manager\minecraft-manager\minecraft-manager\obj\Debug\minecraft-manager.pdb
